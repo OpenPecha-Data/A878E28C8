@@ -1,0 +1,25 @@
+id: A878E28C8
+title: Long Life Prayer for Alak Zenkar Rinpoche
+type: translation
+pechas:
+- I2A43BB2C
+- I5F88B877
+- I622C9827
+- I4BF44C92
+source_metadata:
+  languages:
+  - en
+  - es
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:28:38.880811
+  last_modified_at: 2023-01-04 11:28:38.880822
+  collections:
+  - Alak Zenkar Rinpoche
+  - Works of Tibetan Masters
+alignment_to_base:
+  I2A43BB2C/8400: 0945
+  I5F88B877/DBF8: 0945
+  I622C9827/CFAF: 0945
+  I4BF44C92/C4C6: 0945
